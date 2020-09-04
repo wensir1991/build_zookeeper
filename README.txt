@@ -1,0 +1,3 @@
+# build_zookeeper
+基于centos7构建zookeeper，并整合prometheus监控
+监控端口2182
